@@ -3,7 +3,11 @@
 </h3>
 
 <p align="center">
-  ‍👩🏻‍💻 Turing School of Software & Design - Back-End Program
+  ‍About Me:
+  - Backend Software Engineer
+  - Previous Customer Service Expert
+  - Love to play sports, hike, camp, and go backpacking
+  - Enjoy video games with friends
 </p>
 
 <div align="center" >
