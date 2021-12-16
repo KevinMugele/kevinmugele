@@ -3,7 +3,6 @@
 </h3>
 
 <p align="center">
-  ‍About Me:
   - Backend Software Engineer
   - Previous Customer Service Expert
   - Love to play sports, hike, camp, and go backpacking
