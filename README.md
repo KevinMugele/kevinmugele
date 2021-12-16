@@ -39,5 +39,5 @@
 
 <h3 align="center">🖇 Connect With Me </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-cdelpone-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevinmugele/ "Connect on LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-cdelpone@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinmugele@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-kevinmugele-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevinmugele/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-kevinmugele@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinmugele@gmail.com "Connect via Email")
