@@ -16,29 +16,6 @@
 <hr></hr>
 </div>
 
-<h3 align="center">💾 What I Started Learning</h3>
-<p align="center">
-
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=red)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=flat&logo=travis&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-<hr></hr>
-</div>
-
-<h3 align="center">💻 Exploring</h3>
-<p align="center">
-<div align="center" >
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-<hr></hr>
-
-
 <h3 align="center">🖇 Connect With Me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-kevinmugele-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevinmugele/ "Connect on LinkedIn")
